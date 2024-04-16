@@ -1,4 +1,6 @@
 ### Hi there 👋
+### I am Olabisi Ambali Akinola
+### At the moment, i am learning frontend track in Zuri LMS
 
 <!--
 **Akeenola/Akeenola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
